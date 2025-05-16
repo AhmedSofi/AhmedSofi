@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋, I'm Ahmed Sofy</h1>
+<h1 align="center">Hi there 👋, I'm Ahmed Sofi</h1>
 
 ---
 
